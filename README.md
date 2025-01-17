@@ -1,6 +1,6 @@
 # LDCE Homepage (Forked)
 
-It contains the web pages created for the LDCE homepage project by me and [Nishtha joshi](https://github.com/Nishthajosh/) . This repository is a fork of the [LDCE Homepage](https://github.com/Nishthajosh/ldce-homepage). 
+It contains the web pages created for the LDCE homepage by me and [Nishtha joshi](https://github.com/Nishthajosh/) . This repository is a fork of the [LDCE Homepage](https://github.com/Nishthajosh/ldce-homepage). 
 
 ## Project Description
 
